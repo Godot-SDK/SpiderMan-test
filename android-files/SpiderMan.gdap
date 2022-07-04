@@ -1,0 +1,8 @@
+[config]
+name="SpiderMan"
+binary_type="remote"
+binary="com.github.simplepeng.SpiderMan:spiderman:v1.19"
+
+[dependencies]
+custom_maven_repos=["https://jitpack.io"]
+remote=[]
